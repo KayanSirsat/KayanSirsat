@@ -47,4 +47,4 @@ Python • APIs • Web Scraping • NLP • Data Processing • Git
 
 ## Links
 
-* LinkedIn: <your-link>
+* LinkedIn: www.linkedin.com/in/kayansirsat
